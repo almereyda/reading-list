@@ -40,3 +40,6 @@ we are currently reading:
 - [cognizant: crowdfunding insurance](http://www.cognizant.com/InsightsWhitepapers/Crowdfunding-Insurance-codex1694.pdf)
 - [Nudge: Improving Decisions About Health, Wealth, and Happiness](http://www.amazon.com/gp/product/B00A5DCALY/)
 - [the credit commons: a money for the solidarity economy](https://docs.google.com/document/d/1B9DO8b7Kzh4evbvU-63bHFw9iPfa9PUetESmTLwjWyI/edit#heading=h.btotoosw5xg1)
+- [Separate Commons and Commerce to make it work for the Commons](https://discourse.transformap.co/t/separate-commons-and-commerce-to-make-it-work-for-the-commons/625) (general transformaps debate)
+- [Call for mini-proposals: funding the community with community buckets](https://discourse.transformap.co/t/call-for-mini-proposals-funding-the-community-with-community-buckets/1105) (specific transformaps use case)
+- 
